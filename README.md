@@ -4,13 +4,6 @@ Digital14 Flutter Task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+![Search and Listing screen](https://user-images.githubusercontent.com/47040352/182392482-6aab886a-c31d-4008-b385-ca64cdc868cc.png)
+![Details screen](https://user-images.githubusercontent.com/47040352/182392526-b6091826-add5-432a-9432-7cac56747184.png)
