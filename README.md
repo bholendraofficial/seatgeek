@@ -1,6 +1,6 @@
 # seatgeek
 
-A new Flutter project.
+Digital14 Flutter Task.
 
 ## Getting Started
 

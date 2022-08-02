@@ -36,6 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
               style: const TextStyle(color: Colors.white),
               cursorColor: Colors.white,
               controller: eventsViewModel.inputController,
+              textInputAction: TextInputAction.search,
               onChanged: (value) {
                 if (value.isEmpty) {
                   eventsViewModel.clearData();
